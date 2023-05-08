@@ -2,6 +2,7 @@
 
 <img src="./home_preview.png" alt="home_page" width="70%">
 
+
 In this data science and machine learning project, we classify sports personalities. We restrict classification to only 5 people,
 
 1. Maria Sharapova
@@ -14,10 +15,10 @@ In this data science and machine learning project, we classify sports personalit
 
 Here is the folder structure,
 
-UI : This contains ui website code
-server: Python flask server
-model: Contains python notebook for model building
-images_dataset: Dataset used for our model training
+- UI : This contains ui website code
+- server: Python flask server
+- model: Contains python notebook for model building
+- images_dataset: Dataset used for our model training
 
 ## Technologies used in this project,
 
