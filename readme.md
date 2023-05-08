@@ -1,6 +1,6 @@
 ### Project: Sport Person Classifier Using Machine Learning!
 
-<img src="./home_preview.png" alt="home_page" width="70%">
+<img src="./home_preview.png" alt="home_page" width="100%">
 
 
 In this data science and machine learning project, we classify sports personalities. We restrict classification to only 5 people,
@@ -26,6 +26,6 @@ Here is the folder structure,
 2. Numpy and OpenCV for data cleaning
 3. Matplotlib & Seaborn for data visualization
 4. Sklearn for model building
-5. Jupyter notebook, visual studio code and pycharm as IDE
+5. visual studio code
 6. Python flask for http server
 7. HTML/CSS/Javascript for UI
