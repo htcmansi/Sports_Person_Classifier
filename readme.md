@@ -1,6 +1,6 @@
 ### Project: Sport Person Classifier Using Machine Learning!
 
-<img src="C:\Users\HP LAPTOP\Desktop\WT\WT_Mini project\home.png" alt="workflow" width="70%">
+<img src="./home_preview.png" alt="home_page" width="70%">
 
 In this data science and machine learning project, we classify sports personalities. We restrict classification to only 5 people,
 
