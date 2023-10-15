@@ -12,7 +12,6 @@ In this data science and machine learning project, we classify sports personalit
 5. Lionel Messi
 
 
-
 Here is the folder structure,
 
 - UI : This contains ui website code
